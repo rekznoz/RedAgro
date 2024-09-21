@@ -9,7 +9,7 @@
 2. [Audiencia objetiva](#audiencia-objetiva)
 3. [Analisis de mercado](#analisis-de-mercado)
 4. [Funcionalidades clave](#funcionalidades-clave)
-5. [Tecnologías a utilizar](#tecnologías-a-utilizar)
+5. [Tecnologías a utilizar](#tecnologias-a-utilizar)
 
 ## Idea de la aplicacion
 
@@ -99,7 +99,7 @@ encontrar trabajadores en su zona, ya sea por la lejanía o por el difícil acce
 * **Condiciones laborales justas:** Tener un enfoque de promover la transparencia sobre las condiciones de trabajo y asegurar que las empresas ofrezcan contratos justos y condiciones dignas para los trabajadores del campo.  
     
 
-## Tecnologías a utilizar
+## Tecnologias a utilizar
 
 #### HTML
 
