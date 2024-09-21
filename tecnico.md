@@ -6,9 +6,10 @@
 2. [Bibliografia](bibliografica.md)
 
 ### Indice
-1. [Modelos de ejecución](#modelos-de-ejecución)
-2. [Lenguajes de programación web](#lenguajes-de-programación-web)
-3. [Compatibilidad en navegadores](#compatibilidad-en-navegadores)
+1. [Compatibilidad en navegadores](#compatibilidad-en-navegadores)
+2. [Modelos de ejecución](#modelos-de-ejecución)
+3. [Lenguajes de programación web](#lenguajes-de-programación-web)
+4. [Análisis de mercado](#análisis-de-mercado)
 
 ## Compatibilidad en navegadores
 
@@ -151,3 +152,36 @@ servidor ajeno al cliente y el cliente solo recibe los resultados, el cliente ve
 2. **Configuración adicional:** Requiere un paso de compilación adicional y, en algunos casos, una configuración más compleja.
 
 3. **Sobrecarga de código:** Puede resultar en un código más extenso debido a las anotaciones de tipos y las interfaces, lo que puede ser visto como un inconveniente en proyectos pequeños.
+
+## Análisis de mercado
+
+### Plataformas similares
+
+1. [AgroJob](https://agrojobs.agenciascolocacion.com/) 
+2. [FarmForce](https://farmforce.com/)
+
+### Características Comunes
+
+1. Perfiles de usuario, todas las plataformas permiten a los trabajadores crear un perfil donde destacar su experiencia, habilidades y disponibilidad.
+   
+2. Ofertas de empleo filtradas, permiten que las publicaciones de las empresas sean filtradas por ubicación, habilidad, tipo… y los trabajadores pueden buscar por esos criterios.
+
+3. Comunicacion Interna, ofrece un sistema de mensajería o chat entre empresas y trabajadores es comun.
+
+4. Calificaciones y Reseñas, se pueden clasificar con reseñas los empleados, trabajadores y empresas.
+
+### Oportunidades de Diferenciación
+	
+1. Un enfoque mas centrado en los agricultores rurales de zonas remotas y autónomos, las webs estan mas centradas en las grandes empresas y mi objetivo es centrarme en la pequeña y mediana empresa y/o en los agricultores autónomos.
+
+2. Las plataformas en general estan creadas de forma muy intrincada y complicada, mi idea es que al entrar tengas acceso a la información necesaria, ya que a la persona que entra no le interesa información que no quiere ver o una pantalla de inicio que no le ayuda en nada hay que pensar también que muchas veces las personas mas rurales tienen difícil el entendimiento de las plataformas digitales por eso debe ser simple y llana.
+
+3. Darle un apoyo a la transparencia y el trabajo justo, haciendo promoción a las condiciones laborales justas y a la transparencia en los salarios del jornalero y su contrato, dando herramientas por ejemplo que permitan a un trabajadores verificar la reputación de la empresa en términos de condiciones y remuneración.
+
+### Valor Añadido
+
+1. Inclusión y Acceso Rural, enfocarse en poblaciones rurales, dando acceso a empleos en zonas de difícil acceso.
+
+2. Transparencia y Ética Laboral, promocionar condiciones laborales justas y herramientas para evaluar tanto a empleadores como a trabajadores, lo que genera confianza en el uso de la plataforma.
+
+3. Solución Integral Agrícola, ofrecer no solo una conexión entre trabajadores y empleadores, sino también una plataforma agrícola, incluyendo recursos adicionales que amplíen el valor de la plataforma.
