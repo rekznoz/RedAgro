@@ -1,8 +1,14 @@
 # Informe técnico
 
+### Menu de Navegacion
+
 1. [Documento de propuestan](propuesta.md)
-2. [Informe técnico](tecnico.md)
-3. [Bibliografia](bibliografica.md)
+2. [Bibliografia](bibliografica.md)
+
+### Indice
+1. [Modelos de ejecución](#modelos-de-ejecución)
+2. [Lenguajes de programación web](#lenguajes-de-programación-web)
+3. [Compatibilidad en navegadores](#compatibilidad-en-navegadores)
 
 ## Compatibilidad en navegadores
 
