@@ -6,9 +6,9 @@
 
 ### Indice
 1. [Compatibilidad en navegadores](#compatibilidad-en-navegadores)
-2. [Modelos de ejecución](#modelos-de-ejecución)
-3. [Lenguajes de programación web](#lenguajes-de-programación-web)
-4. [Análisis de mercado](#análisis-de-mercado)
+2. [Modelos de ejecución](#modelos-de-ejecucion)
+3. [Lenguajes de programacion web](#lenguajes-de-programacion-web)
+4. [Analisis de mercado](#analisis-de-mercado)
 
 ## Compatibilidad en navegadores
 
@@ -56,7 +56,7 @@
 
 * **Solución**: Usar herramientas como BrowserStack o Sauce Labs para realizar pruebas cross-browser.
 
-## Modelos de ejecución
+## Modelos de ejecucion
 
 En el modelo cliente la aplicación se ejecuta en el dispositivo del usuario con lo cual es necesario   
 descargar el código y procesarlo en su máquina, en el modelo servidor el codigo se ejecuta en un  
@@ -109,7 +109,7 @@ servidor ajeno al cliente y el cliente solo recibe los resultados, el cliente ve
 
 * **Bases de Datos**: Las operaciones de bases de datos, como consultas, se ejecutan en el servidor.
 
-## Lenguajes de programación web
+## Lenguajes de programacion web
 
 ### **JavaScript**
 
@@ -152,7 +152,7 @@ servidor ajeno al cliente y el cliente solo recibe los resultados, el cliente ve
 
 3. **Sobrecarga de código:** Puede resultar en un código más extenso debido a las anotaciones de tipos y las interfaces, lo que puede ser visto como un inconveniente en proyectos pequeños.
 
-## Análisis de mercado
+## Analisis de mercado
 
 ### Plataformas similares
 
