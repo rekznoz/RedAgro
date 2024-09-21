@@ -5,13 +5,13 @@
 2. [Bibliografia](bibliografica.md)
 
 ### Indice
-1. [Idea de la aplicación](#idea-de-la-aplicación)
+1. [Idea de la aplicación](#idea-de-la-aplicacion)
 2. [Audiencia objetiva](#audiencia-objetiva)
-3. [Análisis de mercado](#análisis-de-mercado)
+3. [Analisis de mercado](#analisis-de-mercado)
 4. [Funcionalidades clave](#funcionalidades-clave)
 5. [Tecnologías a utilizar](#tecnologías-a-utilizar)
 
-## Idea de la aplicación
+## Idea de la aplicacion
 
 Mi idea es la de desarrollar una **plataforma** que conecte a los trabajadores del campo como **pequeñas y medianas empresas agrícolas, agricultores locales o autonómicos**, el propósito de la aplicación es permitir a los trabajadores crear perfiles donde puedan explicar su experiencia, habilidad y disponibilidad mientras las empresas podrán publicar ofertas de trabajo o búsqueda de recursos, la idea es facilitar el contacto de las empresas con trabajadores mas desconocidos para **promover** en cierta manera que el pequeño agricultor tenga la **oportunidad** de ofrecer su producto de forma nacional. 
 
@@ -34,7 +34,7 @@ encontrar trabajadores en su zona, ya sea por la lejanía o por el difícil acce
 - Facilitar el proceso de contratación sin terceras personas.  
 - Reducción del gasto en búsqueda de mano de obra.
 
-## Análisis de mercado
+## Analisis de mercado
 
 ### Plataformas similares
 
