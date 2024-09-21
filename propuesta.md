@@ -1,5 +1,9 @@
 # Documento de propuesta  
 
+1. [Documento de propuestan](propuesta.md)
+2. [Informe técnico](tecnico.md)
+3. [Bibliografia](bibliografica.md)
+
 ### Indice
 1. [Idea de la aplicación](#idea-de-la-aplicación)
 2. [Audiencia objetiva](#audiencia-objetiva)
