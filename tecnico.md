@@ -1,7 +1,6 @@
 # Informe técnico
 
 ### Menu de Navegacion
-
 1. [Documento de propuesta](propuesta.md)
 2. [Bibliografia](bibliografica.md)
 
