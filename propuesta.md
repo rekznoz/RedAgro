@@ -1,4 +1,3 @@
-# Documento de propuesta  
 
 ### Indice
 1. [Idea de la aplicación](#idea-de-la-aplicación)
@@ -70,7 +69,7 @@ encontrar trabajadores en su zona, ya sea por la lejanía o por el difícil acce
 
 ### 1. Perfil de Usuario para Trabajadores del Campo
 
-* **Información básica:** Nombre, ubicación, experiencia laboral, habilidades específicas (tipos de cultivos que pueden recolectar, maquinaria que saben manejar, etc.).  
+* **Información básica:** Nombre, ubicación, experiencia laboral, habilidades específicas (maquinaria que saben manejar, etc.).  
 * **Disponibilidad:** Horarios o temporadas en las que están disponibles para trabajar.  
 * **Portafolio:** Imágenes o videos de su trabajo, testimonios o referencias de empleadores anteriores.  
 * **Certificaciones:** Si tienen alguna formación técnica o capacitación, deberían poder subir estos documentos.  
