@@ -1,18 +1,16 @@
 # Documento de propuesta  
 
-1. [Documento de propuestan](propuesta.md)
-2. [Informe técnico](tecnico.md)
-3. [Bibliografia](bibliografica.md)
+### Menu de Navegacion
+
+1. [Informe técnico](tecnico.md)
+2. [Bibliografia](bibliografica.md)
 
 ### Indice
 1. [Idea de la aplicación](#idea-de-la-aplicación)
 2. [Audiencia objetiva](#audiencia-objetiva)
 3. [Análisis de mercado](#análisis-de-mercado)
 4. [Funcionalidades clave](#funcionalidades-clave)
-5. [Modelos de ejecución](#modelos-de-ejecución)
-6. [Lenguajes de programación web](#lenguajes-de-programación-web)
-7. [Tecnologías a utilizar](#tecnologías-a-utilizar)
-8. [Compatibilidad en navegadores](#compatibilidad-en-navegadores)
+5. [Tecnologías a utilizar](#tecnologías-a-utilizar)
 
 ## Idea de la aplicación
 
