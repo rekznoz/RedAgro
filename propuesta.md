@@ -1,4 +1,8 @@
 
+---
+title: Documento de propuesta  
+---
+
 ### Indice
 1. [Idea de la aplicación](#idea-de-la-aplicación)
 2. [Audiencia objetiva](#audiencia-objetiva)
