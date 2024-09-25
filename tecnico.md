@@ -1,5 +1,7 @@
 # Informe técnico
 
+![Imagen Index](img/tecnico.jpeg)
+
 ### Menu de Navegacion
 1. [Documento de propuesta](propuesta.md)
 2. [Bibliografia](bibliografica.md)
